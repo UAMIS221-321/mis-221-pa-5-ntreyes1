@@ -1,0 +1,15 @@
+/Users/nickreyes/Desktop/mis221code/mis-221-pa-5-ntreyes1/bin/Debug/net7.0/mis-221-pa-5-ntreyes1
+/Users/nickreyes/Desktop/mis221code/mis-221-pa-5-ntreyes1/bin/Debug/net7.0/mis-221-pa-5-ntreyes1.deps.json
+/Users/nickreyes/Desktop/mis221code/mis-221-pa-5-ntreyes1/bin/Debug/net7.0/mis-221-pa-5-ntreyes1.runtimeconfig.json
+/Users/nickreyes/Desktop/mis221code/mis-221-pa-5-ntreyes1/bin/Debug/net7.0/mis-221-pa-5-ntreyes1.dll
+/Users/nickreyes/Desktop/mis221code/mis-221-pa-5-ntreyes1/bin/Debug/net7.0/mis-221-pa-5-ntreyes1.pdb
+/Users/nickreyes/Desktop/mis221code/mis-221-pa-5-ntreyes1/obj/Debug/net7.0/mis-221-pa-5-ntreyes1.csproj.AssemblyReference.cache
+/Users/nickreyes/Desktop/mis221code/mis-221-pa-5-ntreyes1/obj/Debug/net7.0/mis-221-pa-5-ntreyes1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nickreyes/Desktop/mis221code/mis-221-pa-5-ntreyes1/obj/Debug/net7.0/mis-221-pa-5-ntreyes1.AssemblyInfoInputs.cache
+/Users/nickreyes/Desktop/mis221code/mis-221-pa-5-ntreyes1/obj/Debug/net7.0/mis-221-pa-5-ntreyes1.AssemblyInfo.cs
+/Users/nickreyes/Desktop/mis221code/mis-221-pa-5-ntreyes1/obj/Debug/net7.0/mis-221-pa-5-ntreyes1.csproj.CoreCompileInputs.cache
+/Users/nickreyes/Desktop/mis221code/mis-221-pa-5-ntreyes1/obj/Debug/net7.0/mis-221-pa-5-ntreyes1.dll
+/Users/nickreyes/Desktop/mis221code/mis-221-pa-5-ntreyes1/obj/Debug/net7.0/refint/mis-221-pa-5-ntreyes1.dll
+/Users/nickreyes/Desktop/mis221code/mis-221-pa-5-ntreyes1/obj/Debug/net7.0/mis-221-pa-5-ntreyes1.pdb
+/Users/nickreyes/Desktop/mis221code/mis-221-pa-5-ntreyes1/obj/Debug/net7.0/mis-221-pa-5-ntreyes1.genruntimeconfig.cache
+/Users/nickreyes/Desktop/mis221code/mis-221-pa-5-ntreyes1/obj/Debug/net7.0/ref/mis-221-pa-5-ntreyes1.dll
